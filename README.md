@@ -3,7 +3,6 @@ Covid Data Hunters è una Web App costruita nell'intento di rendere fruibile, in
 I dati provengono direttamente dalla pagina GitHub della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile. 
 L'App è stata sviluppata interamente attraverso l'uso del pacchetto Shiny che permette la creazione di Web App interattive direttamente da R.
 
-Uploading CovidDataHunter.mp4…
-
+## Documentazione: 
 * Pacchetto Shiny: https://shiny.rstudio.com/
 * Pagina GitHub della Protezione Civile: https://github.com/pcm-dpc/COVID-19
